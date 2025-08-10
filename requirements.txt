@@ -1,3 +1,4 @@
 torch~=2.1.0+cu118
 opencv-python~=4.8.1.78
 numpy~=1.26.1
+tqdm~=4.66.*
